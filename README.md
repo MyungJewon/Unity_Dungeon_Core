@@ -1,7 +1,7 @@
 # ⚔️ Dungeon Core: Action RPG Prototype
 > **"OOP 기반의 견고한 전투 시스템과 DOTS 최적화를 결합한 하이브리드 액션 RPG"**
 
-![Unity](https://img.shields.io/badge/Unity-6000.0.3f1-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6000.3.0f1-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-OOP_%26_Patterns-512BD4?style=flat-square&logo=c-sharp&logoColor=white)
 ![DOTS](https://img.shields.io/badge/Optimization-DOTS_%26_Jobs-E34F26?style=flat-square)
 
@@ -10,6 +10,8 @@
 ## 📖 Project Overview
 **Dungeon Core**는 탑뷰(Top-down) 시점의 핵앤슬래시 액션 RPG 프로젝트입니다.
 화려한 스킬과 타격감을 구현하는 **게임플레이 로직(Game Loop)**은 객체지향(OOP)으로 유연하게 설계하고, 성능 부하가 심한 **투사체 및 환경 오브젝트**는 데이터 지향(DOTS)으로 처리하여 **생산성과 성능의 균형(Hybrid Architecture)**을 맞추는 데 중점을 두었습니다.
+
+작업기간 : 2026.02.02 ~ (개발중)
 
 **[핵심 구현 목표]**
 1.  **OOP & FSM:** `State Pattern`을 활용한 확장 가능한 캐릭터 제어 시스템 구축.
